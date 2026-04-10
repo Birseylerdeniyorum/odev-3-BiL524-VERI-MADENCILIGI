@@ -2,6 +2,7 @@
 iki farklı data seti için keşifsel veri analizi sürecini aşama aşama gerçekleştiriniz 
 
 Ödev Açıklaması
+
 KEŞİFSEL VERİ ANALİZİ ÖDEV RAPORU (Görev -1 )
 Bu çalışmada sentetik bir veri seti oluşturulmuş ve çalışanların maaşlarını etkileyen faktörler analiz edilmiştir. Eksik veriler ortalama usülü ile tamamlanmış olup, değişkenler standardize edilmiştir. Aykırı değer analizi yapılmış ve verideki uç değerler incelenmiştir. Korelasyon analizi ile değişkenler arasındaki ilişkiler değerlendirilmiş, son olarak regresyon modeli ile maaşı etkileyen faktörler belirlenmiştir. (1. Görev)
 Bu ödev çalışma ortamı: Posit.Cloud (RStudio) üzerinde gerçekleştirilmiştir.
